@@ -103,7 +103,9 @@ In summary, focusing on the "job to be done" perspective can provide valuable in
 
 
 ## Conclusion
-Identifying and addressing pain points is essential for developing successful solutions. As you think about your own projects, remember to focus on real problems and how your ideas can provide effective solutions.
+Identifying and addressing pain points is essential for developing successful solutions. As you think about your own projects, remember to focus on real problems and how your ideas can provide effective solutions. What pain point do you plan to address? How do you plan to solve it? Is it a vitamin, pain killer, or cure?
+
+---
 
 - Approximately how long (in minutes) did this lesson take you to complete?
 {: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
