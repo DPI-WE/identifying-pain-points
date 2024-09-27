@@ -46,7 +46,7 @@ Let's examine some real-world examples:
 Let's examine some real-world examples and where they land on the User Benefit spectrum:
 
 ### Zoom
-![Zoom](./assets/zoom-meeting.webp)
+![Zoom](assets/zoom-meeting.webp)
 
 - **Pain Point**: Need for effective remote communication, especially during the rise of remote work and education.
 - **Solution**: A user-friendly video conferencing platform that integrates with various systems for collaboration.
@@ -57,7 +57,7 @@ Let's examine some real-world examples and where they land on the User Benefit s
 - **Benefit**: **Pain Killer** - Addresses immediate communication needs but may not solve all aspects of remote collaboration.
 
 ### Calendly
-![Calendly](./assets/calendly.webp)
+![Calendly](assets/calendly.webp)
 
 - **Pain Point**: The back-and-forth of scheduling meetings or appointments.
 - **Solution**: A tool that simplifies scheduling without the need for endless emails.
@@ -67,7 +67,7 @@ Let's examine some real-world examples and where they land on the User Benefit s
 - **Benefit**: **Pain Killer** - Alleviates the frustration of scheduling but doesn't eliminate the need for meetings.
 
 ### Duolingo
-![Duolingo](./assets/duolingo.png)
+![Duolingo](assets/duolingo.png)
 
 - **Pain Point**: The cost and complexity of learning a new language.
 - **Solution**: A gamified, free language-learning platform.
@@ -77,7 +77,7 @@ Let's examine some real-world examples and where they land on the User Benefit s
 - **Benefit**: **Vitamin** - Offers valuable learning opportunities but is not a necessity for everyday functioning.
 
 ### Uber
-![Uber](./assets/uber.webp)
+![Uber](assets/uber.webp)
 
 - **Pain Point**: Getting from one place to another can be expensive and slow.
 - **Solution**: A mobile app that connects users with drivers for quick transportation.
